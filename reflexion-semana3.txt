@@ -1,0 +1,5 @@
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
+Mantener un registro de cambios en un proyecto de software es importante porque asegura orden  y la posibilidad de volver atrás cuando algo falla.
+Es importante que los proyectos de software mantengan un registro de cambios con herramientas como Git porque permite llevar un control organizado de todas las modificaciones realizadas, facilita saber quién hizo cada cambio, cuándo se hizo y por qué, permite regresar a versiones anteriores en caso de errores o fallos en el código.
+Brinda seguridad al proyecto al tener un historial completo, permite experimentar con nuevas ideas sin afectar la versión principal.
+Esta pregunta me hizo reflexionar de que es muy importante en todos nuestros proyectos porque nos da mas confianza de que si nos equivocamos podemos volver y arreglarlo, y que bueno hubiera sido tener esa opción en nuestras vidas, para arreglar tantas cosas que uno hace "mal" y como enseñanza me deja que el camino no es perfecto pero si trazable y lleno de muchas aprendizajes, porque de lo "malo" o errores también se puede aprender.
